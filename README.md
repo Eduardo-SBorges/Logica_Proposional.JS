@@ -7,5 +7,5 @@ Exemplo:
 1ª hipótese: p -> ~r  |
 2ª hipótese: ~r -> q
 ------------------------------
-Dedução: p -> q
+Dedução: p -> q |
 Teorema: Silogismo Hipotético
