@@ -4,7 +4,7 @@ Programa que verifica se existem deduções validas nas proposições inseridas 
 
 Exemplo:
 
-1ª hipótese: p -> ~r
+1ª hipótese: p -> ~r  |
 2ª hipótese: ~r -> q
 ------------------------------
 Dedução: p -> q
