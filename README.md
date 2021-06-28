@@ -1,8 +1,8 @@
 INSTALAÇÃO
 
-1. Instalar o node.js (execução de arquivos .js no prompt de comando).
-2. Após abrir o cmd.exe, usar o comando a seguir: npm i prompt-sync
-3. No cmd, ir na pasta onde está o arquivo e digitar o seguinte comando: .../node Verificação de Lógica Proposicional
+1. Salvar localmente as pastas.
+2. Executar o arquivo logica_proposicional.js (abrir com o aplitivo node.js ou Visual Studio Code).
+3. Executar o comando: node logica_proposional.
 
 Exemplo de uso do programa:
 
