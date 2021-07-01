@@ -2,8 +2,8 @@ const prompt = require('prompt-sync')()
 
 console.log('-'.repeat(69) + '\nInstruções:\n\n1) Só serão aceitas as letras p (1º item), q (2º item) e r (3º item).\n2) Digite nos seguintes formatos "p -> q", "~p -> q", "p v q".\n' + '-'.repeat(69) + '\n')
 
-const hip1 = prompt('1ª hipótese: ')
-const hip2 = prompt('2ª hipótese: ')
+const hip1 = (prompt('1ª hipótese: ')).trim()
+const hip2 = (prompt('2ª hipótese: ')).trim()
 
 let possuiInferencia = 0
 
